@@ -1,0 +1,56 @@
+.head{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 5x;
+
+}
+.head2{
+    text-align: center;
+    margin-bottom: 15px;
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.genel{
+    border-style: solid;
+    border-color: rgba(216, 9, 140, 0.521);
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.genel2{
+    background-color: rgba(233, 150, 122, 0.676);
+    text-align: center;
+    border-color: blueviolet;
+    border-style: solid;
+    margin-top: 5px; 
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.genel3{
+    border-color: blue;
+    border-style: solid;
+    margin-top: 5px;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 5px;
+    font-size: x-small;
+    
+}
+
+.third{
+    margin-top: 10px; 
+}
+
+.ara{
+    font-size: smaller;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fourth{
+    font-size: smaller;
+}
